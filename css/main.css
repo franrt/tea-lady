@@ -1,1 +1,27 @@
-/* Escribe acá tus estilos*/
+body {
+    background-color: #ecb3ec;
+    color: Grey;
+    font-family: sans-serif;
+    font-weight: lighter
+}
+
+header {
+    font-family: 'Parisienne', cursive;
+    font-size: 24px;
+}
+
+button {
+    width: 1s50px;
+    height: 50px;
+    background-color: #d68af7;
+    border: none;
+    font-size: 1em;
+    color: white;
+}
+
+form {
+    width: 350px;
+    height: 250px;
+    border: 5px solid #d68af7;
+    padding: 10px;
+}
